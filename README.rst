@@ -11,7 +11,7 @@ Installation
 
 Usage
 -----
-For the simple way you can just send anything supported by `python-telegram-bot <https://python-telegram-bot.org/>`_,
+For the simple way you can just send anything supported by `python-telegram-bot <https://python-telegram-bot.org/>`_.
 
 ::
 
@@ -38,4 +38,4 @@ For the simple way you can just send anything supported by `python-telegram-bot 
                             })
 
 But if you want to use more interactive interface,
-you can get bot dispatcher from plugin and define your telegram controller after ``cherrypy.engine.start``,
+you can get bot dispatcher from plugin and define your telegram controller after ``cherrypy.engine.start``.
