@@ -1,5 +1,5 @@
-Telegram Bot for Cherrypy
-=========================
+Marbaloo Telegram
+=================
 
 `python-telegram-bot <https://python-telegram-bot.org/>`_ support for cherrypy.
 
